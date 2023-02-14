@@ -19,7 +19,10 @@ Below are some projects I have worked on;
 - data wrangling
 - data cleaning
 - data visualization
+- data summarization
 - dashboarding
+- Pivot table/chart
+- Look up tables, etc
 
 ## Tools
 - Ms. Excel
