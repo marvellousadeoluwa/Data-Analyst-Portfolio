@@ -1,0 +1,404 @@
+S/N,Bootcamp ID,Full Name,Gender,AI+ Community
+1,AIB21/182,Aanuoluwapo Liasu,Male,None
+2,AIB21/254,Abass Olaiya,Male,City- AI+ Ibadan
+3,AIB21/131,Abdul-Baaqi Jempeji,Male,City- AI+ Calabar
+4,AIB21/231,Abdulazeez Jimoh,Male,City- AI+ Abeokuta
+5,AIB21/286,AbdulHameed Babatunde,Male,Campus- AI+ FUTA
+6,AIB21/371,Abdulhameed Dere,Male,Campus- AI+ UNILORIN
+7,AIB21/57,Abduljaleel Adejumo,Male,City- AI+ Osogbo
+8,AIB21/251,Abduljeleel Balikis,Female,Campus- AI+ UI
+9,AIB21/294,Abdullateef Ogundipe,Male,Campus- AI+ UI
+10,AIB21/323,ABDULQADRI AFOLABI,Male,Campus- AI+ FUT
+11,AIB21/64,Abdulwasiu Tiamiyu,Male,Campus- AI+ OAU
+12,AIB21/243,Abdurahman Ridwan Opeyemi,Male,Campus- AI+ OAU
+13,AIB21/46,Abideen Bello,Male,Campus- AI+ LAUTECH
+14,AIB21/2,Abiodun Abayomi,Male,Campus- AI+ OAU
+15,AIB21/152,Abiodun Gbadamosi,Male,Campus- AI+ OAU
+16,AIB21/388,Abiodun Sanni,Male,Campus- AI+ UNILAG
+17,AIB21/39,Abiodun Uthman Allison,Male,Campus- AI+ UI
+18,AIB21/175,Abiola Segun ezekiel,Male,Campus- AI+ FUOYE
+19,AIB21/215,Abisoye Suberu,Male,Campus- AI+ FUTA
+20,AIB21/317,Abubakar Abdulmajeed Alaro,Male,City- AI+ Abeokuta
+21,AIB21/287,Adams Albarka,Male,Campus- AI+ OAU
+22,AIB21/326,Adebogun Jubril Ademola,Male,Campus- AI+ FUNAAB
+23,AIB21/71,Adebowale Daniel,Male,Campus- AI+ FUTA
+24,AIB21/239,Adedamola Adeyemo,Male,Campus- AI+ OAU
+25,AIB21/349,Adedayo Adebesin,Female,None
+26,AIB21/179,Adedoyin Adegoke,Female,Campus- AI+ FUNAAB
+27,AIB21/168,Adejumobi Joshua,Female,Campus- AI+ FUNAAB
+28,AIB21/365,Adekemi Kadri,Female,Campus- AI+ UNILAG
+29,AIB21/173,Adekola Aliu,Male,Campus- AI+ OAU
+30,AIB21/309,Adekunle Precious Oreoluwa,Female,Campus- AI+ OAU
+31,AIB21/352,Adeleye Emmanuel Oluwatunmininu,Male,Campus- AI+ UI
+32,AIB21/273,Adenuga Kolade,Male,Campus- AI+ OAU
+33,AIB21/227,ADENUPE KUYE,Female,None
+34,AIB21/23,Adeoye Samuel,Male,Campus- AI+ OAU
+35,AIB21/377,Aderibigbe Joseph Ayomide,Male,Campus- AI+ OAU
+36,AIB21/269,Aderibigbe Micheal Oladunjoye,Male,Campus- AI+ OAU
+37,AIB21/342,Adesoba Adewale Olamide,Male,City- AI+ Ibadan
+38,AIB21/403,Adeyinka Sotunde,Male,Campus- AI+ UNILAG
+39,AIB21/344,ADULOJU JAMES,Male,Campus- AI+ OAU
+40,AIB21/115,Aduragbemi Oyinlola,Male,Campus- AI+ UNILAG
+41,AIB21/266,Agnes Obikaonu,Female,City- AI+ Owerri
+42,AIB21/221,Ahmed Oluwatosin Ogunbiyi,Male,Campus- AI+ FUNAAB
+43,AIB21/218,Akinade Abiodun,Male,None
+44,AIB21/297,Akinlabi Akinkunmi Taofeek,Male,Campus- AI+ OAU
+45,AIB21/126,Akinrotimi Daniel Feyisola,Male,Campus- AI+ FUNAAB
+46,AIB21/155,Akolade Ojesina,Male,Campus- AI+ UI
+47,AIB21/25,Akomolafe Ayobami joseph,Male,Campus- AI+ UI
+48,AIB21/191,Alamin Musa Magaga,Male,City- AI+ Kaduna
+49,AIB21/158,Alexander Nwakanma,Male,Campus- AI+ UNILAG
+50,AIB21/70,Amazing-Grace Olutomilayo,Male,Campus- AI+ OAU
+51,AIB21/87,Ambali Olalekan Wadud,Male,Campus- AI+ OAU
+52,AIB21/374,Ambrose Ikpele,Male,Campus- AI+ UNILAG
+53,AIB21/274,Ameck Dosseh,Male,None
+54,AIB21/325,Ammar Jubril,Male,Campus- AI+ UI
+55,AIB21/132,ANFELA OLAMIDE,Female,City- AI+ Abeokuta
+56,AIB21/358,Ani Emmanuel Chigozie,Male,Campus- AI+ FUT
+57,AIB21/213,Aniebiet Evans Udom,Male,Campus- AI+ UI
+58,AIB21/163,Anthonia Okafor,Female,None
+59,AIB21/161,Anuoluwapo Ogunrinde,Female,Campus- AI+ FUNAAB
+60,AIB21/138,Augustine Chidi Chukwumezie,Male,Campus- AI+ UNILAG
+61,AIB21/375,Augustine Oloche Noah,Male,Campus- AI+ UI
+62,AIB21/184,Ayanlowo Babatunde,Male,Campus- AI+ UNILAG
+63,AIB21/338,Ayano Temitope Ayanfunke,Female,Campus- AI+ OAU
+64,AIB21/318,Ayobami Olamide,Male,Campus- AI+ OAU
+65,AIB21/108,Ayodamola Adenuga,Female,City- AI+ Ibadan
+66,AIB21/281,Ayodeji Adedayo,Male,City- AI+ Ibadan
+67,AIB21/233,Ayodeji Akande,Male,Campus- AI+ LAUTECH
+68,AIB21/106,Ayodeji Akenroye,Male,Campus- AI+ FUTA
+69,AIB21/333,Ayodeji Ibimilua,Male,City- AI+ Ado-Ekiti
+70,AIB21/113,Ayomide Aderonmu,Male,Campus- AI+ UNILAG
+71,AIB21/340,Ayomide Daramola,Female,Campus- AI+ FUTA
+72,AIB21/214,Ayomide Fagoroye,Male,Campus- AI+ UNILAG
+73,AIB21/230,Azeez Razaq,Male,Campus- AI+ LASU
+74,AIB21/121,Babatunde OWOEYE,Male,Campus- AI+ OAU
+75,AIB21/384,Babawale Sodiq Damilola,Male,Campus- AI+ UI
+76,AIB21/147,Bamidele Tella,Male,None
+77,AIB21/334,Bassey John Sunday,Male,City- AI+ Uyo
+78,AIB21/277,Benedict Emoe-kabu,Male,Campus- AI+ UNIBEN
+79,AIB21/149,Best Nyah,Male,City- AI+ Uyo
+80,AIB21/167,"Biliki Omoseke, Olaleye",Female,None
+81,AIB21/150,Bilikis Fadeyi,Female,Campus- AI+ LASU
+82,AIB21/53,Blessing Oludele,Female,None
+83,AIB21/295,Bolarinwa Oreoluwa,Male,Campus- AI+ OAU
+84,AIB21/399,Bolarinwa Rahmon Ismail,Male,City- AI+ Abeokuta
+85,AIB21/262,Bramuel Aswani,Male,Campus- AI+ FUPRE
+86,AIB21/164,Budede Samuel Otami,Male,City- AI+ Port Harcourt
+87,AIB21/165,Budede Samuel Otami,Male,City- AI+ Port Harcourt
+88,AIB21/240,Bunmi Akinremi,Female,Campus- AI+ OAU
+89,AIB21/366,Busayo Awobade,Male,Campus- AI+ FUNAAB
+90,AIB21/160,Chidinma Nwatu,Female,Campus- AI+ UI
+91,AIB21/188,Chiedozie Sixtus Onyearugbulem,Male,City- AI+ Enugu
+92,AIB21/282,Chima Caleb C,Male,City- AI+ Uyo
+93,AIB21/129,Christian Ajulor,Male,City- AI+ Port Harcourt
+94,AIB21/170,Christopher Somoye,Male,Campus- AI+ FUTA
+95,AIB21/52,Chukwuemeka Omeh,Male,None
+96,AIB21/225,Coker Richard Ayodeji,Male,Campus- AI+ UNILAG
+97,AIB21/192,Collins Abegunde,Male,Campus- AI+ FUNAAB
+98,AIB21/19,Damola Oriola,Male,None
+99,AIB21/272,Daniel Oladepo,Male,Campus- AI+ OAU
+100,AIB21/107,Daniel Onoja,Male,None
+101,AIB21/111,DAUDU PHILIP AYOMIDE,Male,Campus- AI+ FUTA
+102,AIB21/14,David Alao,Male,Campus- AI+ UI
+103,AIB21/4,David Olukolatimi,Male,Campus- AI+ UNILAG
+104,AIB21/73,David Onyeali,Male,Campus- AI+ UNILAG
+105,AIB21/217,Dayo ORUNSOLU,Male,None
+106,AIB21/110,Dolamu Oludare,Male,None
+107,AIB21/343,Dolapo Adebo,Male,None
+108,AIB21/137,Dorcas Olajide,Female,Campus- AI+ OAU
+109,AIB21/67,Ebenezer Olubayode,Male,Campus- AI+ OAU
+110,AIB21/109,Edet Emmanuel Asuquo,Male,City- AI+ Uyo
+111,AIB21/95,Efe Wonder-David Oghale,Male,City- AI+ Port Harcourt
+112,AIB21/34,EFEVODE EKOH,Male,None
+113,AIB21/362,Ehiz Rendezvouz,Female,Campus- AI+ UNILAG
+114,AIB21/8,Elizabeth Gbamwuan,Female,City- AI+ Abuja
+115,AIB21/347,Eloghosa Ikponmwoba,Male,Campus- AI+ UNIBEN
+116,AIB21/332,Eme Udobong,Female,City- AI+ Abeokuta
+117,AIB21/353,Emediong  Edem,Male,City- AI+ Uyo
+118,AIB21/172,Emeka Paul Orji,Male,Campus- AI+ UI
+119,AIB21/291,Emelike Caleb,Male,None
+120,AIB21/397,Emmanuel Adeleye,Male,Campus- AI+ FUTA
+121,AIB21/171,Emmanuel Akanji,Male,Campus- AI+ FUNAAB
+122,AIB21/290,Emmanuel Bolarinwa,Male,Campus- AI+ OAU
+123,AIB21/176,Emmanuel Ebiendele,Male,Campus- AI+ FUTA
+124,AIB21/10,Emmanuel Imonmion,Male,Campus- AI+ UNIBEN
+125,AIB21/354,Emmanuel Njoku,Male,City- AI+ Enugu
+126,AIB21/402,Emmanuel Nnaemeka,Male,City- AI+ Uyo
+127,AIB21/279,Emmanuel Olagoke,Male,Campus- AI+ OAU
+128,AIB21/198,Emmanuel OYEKANMI,Male,Campus- AI+ OAU
+129,AIB21/85,Emmanuel Samuel,Male,Campus- AI+ FUTA
+130,AIB21/202,Emmanuel Siaw-Darko,Male,None
+131,AIB21/84,Enoch Tolulope Adetunji,Male,Campus- AI+ OAU
+132,AIB21/62,Esther MUSTAPHA,Female,City- AI+ Abeokuta
+133,AIB21/200,Eunice Kadiri,Female,City- AI+ Benin
+134,AIB21/186,EYITAYO OLONILUA,Male,Campus- AI+ FUOYE
+135,AIB21/38,Ezeh Jude Gabriel,Male,Campus- AI+ FUT
+136,AIB21/98,Ezekiel Oladiran,Male,Campus- AI+ OAU
+137,AIB21/116,Fafolahan Abiola,Male,Campus- AI+ OAU
+138,AIB21/284,Faheedah Bukola Bello,Female,None
+139,AIB21/65,Fanyam Lawrence Terkuma,Male,None
+140,AIB21/151,Farouk Kokori,Male,Campus- AI+ FUT
+141,AIB21/61,Fashola Femi Gabriel,Male,City- AI+ Abeokuta
+142,AIB21/237,Fatima Tasallah Rufai,Female,None
+143,AIB21/336,Favour James,Female,Campus- AI+ OAU
+144,AIB21/364,FAVOUR UGOCHUKWU OJIAKU,Male,City- AI+ Owerri
+145,AIB21/391,Fawaz Adeniji,Male,Campus- AI+ FUNAAB
+146,AIB21/99,Felix Momoh,Male,City- AI+ Abuja
+147,AIB21/136,Felix Okibe,Male,City- AI+ Abuja
+148,AIB21/35,Festus Idowu,Male,Campus- AI+ FUTA
+149,AIB21/280,Feyisupo Akeem,Male,Campus- AI+ OAU
+150,AIB21/128,Florence Egwu,Female,City- AI+ Uyo
+151,AIB21/90,Folasewa Abdulsalam,Female,Campus- AI+ OAU
+152,AIB21/148,Folayan Ayodeji Opeyemi,Male,City- AI+ Abuja
+153,AIB21/400,Francis Atoyebi,Male,Campus- AI+ UNILORIN
+154,AIB21/319,Frank Ezenwanne,Male,Campus- AI+ UNIBEN
+155,AIB21/187,Gbadegesin Muhammed Olatunbosun,Male,City- AI+ Ibadan
+156,AIB21/154,Gbenga Talabi,Male,Campus- AI+ UNILAG
+157,AIB21/5,Gideon George,Male,City- AI+ Bauchi
+158,AIB21/247,Gift Anyaoma,Female,Campus- AI+ UI
+159,AIB21/207,Giwa Yusuf A,Male,Campus- AI+ UI
+160,AIB21/196,Godwin Adegbehingbe,Male,Campus- AI+ UNILORIN
+161,AIB21/360,Goodness Oluwamyokun Opateye,Male,Campus- AI+ OAU
+162,AIB21/21,Gospel Orok,Male,City- AI+ Port Harcourt
+163,AIB21/276,Grace Kolawole,Female,Campus- AI+ UNILAG
+164,AIB21/313,Grace Omojola,Female,Campus- AI+ OAU
+165,AIB21/105,Gregory Tsado,Male,Campus- AI+ UNIBEN
+166,AIB21/169,Hashirudeen Muhammad,Male,Campus- AI+ UI
+167,AIB21/199,Husain Ridwan,Male,Campus- AI+ UNILAG
+168,AIB21/337,Ibekwe Kingsley,Male,City- AI+ Enugu
+169,AIB21/219,Ibrahim Ajibade,Male,Campus- AI+ UNILAG
+170,AIB21/220,Ibrahim Ibrahim,Male,Campus- AI+ UNILAG
+171,AIB21/335,Ibrahim Oguntola,Male,Campus- AI+ UI
+172,AIB21/112,Idongesit Inyang,Male,City- AI+ Uyo
+173,AIB21/11,Ifeanyi Innocent Ugwu,Male,City- AI+ Bauchi
+174,AIB21/348,Ifenaike Alexander,Male,Campus- AI+ UI
+175,AIB21/308,Ifeoluwa Israel Adewumi,Male,City- AI+ Ibadan
+176,AIB21/7,Ijomah Ikechukwu Emmanuel,Male,City- AI+ Ibadan
+177,AIB21/180,ISMAIL ADEKUNLE ADEGBITE,Male,Campus- AI+ FUNAAB
+178,AIB21/96,ISMAIL YUSUF,Male,Campus- AI+ LAUTECH
+179,AIB21/289,Israel Orere,Male,Campus- AI+ UNILAG
+180,AIB21/345,Jafar-Sadiq Shittu,Male,Campus- AI+ FUT
+181,AIB21/100,Jamiil Ali,Male,None
+182,AIB21/253,JAMIU   OGUN,Male,Campus- AI+ UNILAG
+183,AIB21/258,JAMIU ADEWALE OGUN,Male,Campus- AI+ UNILAG
+184,AIB21/401,Jamiu Afolabi,Male,Campus- AI+ FUT
+185,AIB21/102,Jeffrey Ikemefuna Esedo,Male,City- AI+ Abuja
+186,AIB21/387,Jessica Ojo,Female,None
+187,AIB21/393,John Ajayi,Male,Campus- AI+ FUTA
+188,AIB21/56,John Amakata,Male,Campus- AI+ LAUTECH
+189,AIB21/27,John Egbeola,Male,Campus- AI+ UI
+190,AIB21/283,JOSEPH ODULATE,Male,Campus- AI+ FUNAAB
+191,AIB21/351,Joshua Alonge,Male,City- AI+ Ibadan
+192,AIB21/328,Joshua Obikunle,Male,None
+193,AIB21/33,Joshua Ohomina,Male,Campus- AI+ UNIBEN
+194,AIB21/81,Joshua Salako,Male,Campus- AI+ FUNAAB
+195,AIB21/162,Julius Oyewole,Male,Campus- AI+ UNILAG
+196,AIB21/329,Justus Ilemobayo,Male,Campus- AI+ OAU
+197,AIB21/123,kabirat Bolanle Olayemi,Female,Campus- AI+ FUOYE
+198,AIB21/139,kafayat ogunlana,Female,None
+199,AIB21/378,Kalesanwo Yomi Gbenga,Male,Campus- AI+ FUTA
+200,AIB21/316,Kamaldeen Seriki,Male,Campus- AI+ UNILAG
+201,AIB21/80,Kate Ogochukwu Nwankwo,Female,None
+202,AIB21/78,Kawthar Babatunde,Female,None
+203,AIB21/320,Kayode Makinde,Male,Campus- AI+ FUNAAB
+204,AIB21/268,Kayode Orowa,Male,None
+205,AIB21/193,Kehinde Bobade,Female,Campus- AI+ FUNAAB
+206,AIB21/370,Kehinde Jelil Alade,Male,Campus- AI+ UNILAG
+207,AIB21/114,Kenfack Anafack Alex Bruno,Male,None
+208,AIB21/17,Lilian Ugwu,Female,None
+209,AIB21/58,Loveth Omokaro,Female,Campus- AI+ UNIBEN
+210,AIB21/195,Lucky Ajidoku,Male,Campus- AI+ BUK
+211,AIB21/15,Margaret Awojide,Female,Campus- AI+ UNILAG
+212,AIB21/75,Mariam Olasunkanmi-Ojo,Female,Campus- AI+ OAU
+213,AIB21/267,Martins Oluwapelumi Ajakaye,Male,None
+214,AIB21/206,Marvellous Alabi,Male,Campus- AI+ FUTA
+215,AIB21/117,Maryam Oyeyiola,Female,None
+216,AIB21/133,Masturah Moshood,Female,Campus- AI+ FUNAAB
+217,AIB21/248,Matthew Oke,Male,Campus- AI+ FUTA
+218,AIB21/101,Maxwell Ifegunni,Male,None
+219,AIB21/43,Melody Ogedengbe,Female,Campus- AI+ UI
+220,AIB21/89,Meshach Odejide,Male,Campus- AI+ FUTA
+221,AIB21/322,Michael Adedokun,Male,Campus- AI+ FUNAAB
+222,AIB21/275,Michael Adetoro,Male,Campus- AI+ FUTA
+223,AIB21/285,Michael Ajiboye,Male,Campus- AI+ OAU
+224,AIB21/288,Michael Eludiora,Male,Campus- AI+ OAU
+225,AIB21/40,Michael Obianigwe,Male,City- AI+ Owerri
+226,AIB21/299,Michael Ogunkanmi,Male,Campus- AI+ LAUTECH
+227,AIB21/216,Mmuokuba Michael Chiemerie,Male,City- AI+ Owerri
+228,AIB21/22,Mobolurin Adekanmbi,Male,None
+229,AIB21/241,MofeOluwa Opadotun,Female,Campus- AI+ UNILAG
+230,AIB21/77,Motunrayo Olugbenga,Female,Campus- AI+ OAU
+231,AIB21/244,Moyosore Oduwole,Female,City- AI+ Abeokuta
+232,AIB21/36,Mubar Dauda,Male,None
+233,AIB21/83,Muhammad Abiodun Sulaiman,Male,None
+234,AIB21/250,Muhammad Aliyu,Male,City- AI+ Kano
+235,AIB21/321,Muhammad King Yakub,Male,Campus- AI+ FUT
+236,AIB21/235,Muhammad Suleiman Folorunsho,Male,Campus- AI+ UNILORIN
+237,AIB21/45,Muhammad Thakeeb Muhammas,Male,Campus- AI+ BUK
+238,AIB21/256,Muhammed Ajasa,Male,Campus- AI+ LASU
+239,AIB21/379,Muhammed Jimoh,Male,City- AI+ Ibadan
+240,AIB21/59,Munir Adavize Abdullahi,Male,Campus- AI+ BUK
+241,AIB21/327,Munzali Alhassan,Male,None
+242,AIB21/302,Mustapha Qomorudeen,Male,Campus- AI+ UNILORIN
+243,AIB21/125,Nnaemeka Obiefuna,Male,None
+244,AIB21/6,Nonso Ebele-Muolokwu,Male,None
+245,AIB21/260,nurudeen abolarinwa,Male,Campus- AI+ OAU
+246,AIB21/50,nwokedike ugonna emmanuel,Male,Campus- AI+ UNILAG
+247,AIB21/383,Obinna Oliseneku,Male,Campus- AI+ UNIBEN
+248,AIB21/32,Obinna Ugbor,Male,Campus- AI+ UNILAG
+249,AIB21/42,Odeajo Israel,Male,Campus- AI+ UI
+250,AIB21/185,OGECHUKWU SYLVIA OKWU,Female,Campus- AI+ UI
+251,AIB21/303,Ogedengbe Oluwafemi,Male,Campus- AI+ OAU
+252,AIB21/143,Ogundeji Olumide Ayobami,Male,None
+253,AIB21/373,Ogunlokun Victor,Male,Campus- AI+ OAU
+254,AIB21/16,Ogunniran Oluwasijibomi,Male,Campus- AI+ UI
+255,AIB21/257,Ohakim Nnaemeka Edward,Male,City- AI+ Enugu
+256,AIB21/134,Ojoawo Lydia Subuola,Female,Campus- AI+ OAU
+257,AIB21/304,Okanlawon Olayemi,Male,Campus- AI+ FUOYE
+258,AIB21/263,Okoroafor Chigozie,Male,Campus- AI+ OAU
+259,AIB21/47,Olabode Onile-ere,Male,None
+260,AIB21/197,Oladejo Emmanuel,Male,Campus- AI+ UI
+261,AIB21/86,Oladimeji Oluwadare,Male,Campus- AI+ UI
+262,AIB21/44,Oladimeji Williams,Male,Campus- AI+ UNILAG
+263,AIB21/305,Olagookun David,Male,Campus- AI+ FUNAAB
+264,AIB21/145,OLAJIDE DADA,Male,Campus- AI+ UNILORIN
+265,AIB21/236,Olajide Oluwatosin,Male,Campus- AI+ OAU
+266,AIB21/367,Olajumoke Olawale,Male,Campus- AI+ FUNAAB
+267,AIB21/124,OLALEYE ENIOLA,Male,Campus- AI+ UNILAG
+268,AIB21/142,Olamidayo Mimiola,Male,City- AI+ Ibadan
+269,AIB21/296,Olamilekan Adenusi,Male,None
+270,AIB21/140,Olamilekan Omotosho,Male,Campus- AI+ FUTA
+271,AIB21/359,OLANIKE Olaoluwa OLABIYI,Female,Campus- AI+ OAU
+272,AIB21/307,Olanrewaju Hope,Male,None
+273,AIB21/178,Olanrewaju Olagunju,Male,Campus- AI+ UNILAG
+274,AIB21/37,Olaoluwa Ogunse,Male,City- AI+ Abuja
+275,AIB21/293,Olaoluwa Saola,Male,Campus- AI+ OAU
+276,AIB21/92,Olatunde Waliu Ashiru,Male,None
+277,AIB21/12,Olawale Abiodun Ogundeji,Male,City- AI+ Abeokuta
+278,AIB21/72,Olayinka Arimoro,Male,Campus- AI+ UNILAG
+279,AIB21/76,Olekanma Chinonso Victoria,Female,City- AI+ Owerri
+280,AIB21/94,Oluchukwu Okorie,Female,City- AI+ Enugu
+281,AIB21/82,Olufunmilayo Aforijiku,Female,Campus- AI+ UI
+282,AIB21/211,Olusegun Banji,Male,Campus- AI+ OAU
+283,AIB21/93,Olusola Aremu,Male,Campus- AI+ LASU
+284,AIB21/228,Oluwabunmi Iwakin,Male,Campus- AI+ UI
+285,AIB21/79,Oluwadamifogore Daramola,Male,Campus- AI+ FUTA
+286,AIB21/368,Oluwadara Adepoju,Female,City- AI+ Abeokuta
+287,AIB21/355,Oluwadunsin Fajemila,Male,Campus- AI+ OAU
+288,AIB21/226,Oluwafemi Abiona,Male,Campus- AI+ OAU
+289,AIB21/372,Oluwafemi Adeyemo,Male,Campus- AI+ FUTA
+290,AIB21/261,Oluwafemi Akinyele,Male,Campus- AI+ UNILAG
+291,AIB21/51,Oluwafunbi Adeneye,Male,Campus- AI+ FUNAAB
+292,AIB21/346,OLUWAGBENGA OLADUNJOYE,Male,Campus- AI+ FUOYE
+293,AIB21/49,Oluwasegun Olaniyan,Male,None
+294,AIB21/41,Oluwaseun Awosise,Male,Campus- AI+ OAU
+295,AIB21/224,Oluwaseyi Gbadamosi,Male,City- AI+ Ilorin
+296,AIB21/389,Oluwaseyi Ojo,Male,City- AI+ Port Harcourt
+297,AIB21/312,Oluwatimilehin Adebunmi,Male,Campus- AI+ LASU
+298,AIB21/394,Oluwatobi Akintunlese,Male,Campus- AI+ UNILAG
+299,AIB21/386,Oluwatobi Solomon Olutola,Male,Campus- AI+ FUOYE
+300,AIB21/204,Oluwatosin Jayeola,Male,City- AI+ Port Harcourt
+301,AIB21/238,OLUWATOYIN FANIYAN,Male,Campus- AI+ FUOYE
+302,AIB21/118,Oluwawemimo Folayan,Female,Campus- AI+ OAU
+303,AIB21/88,OLUYEDE SEGUN ADEDEJI,Male,Campus- AI+ FUTA
+304,AIB21/55,Omoniyi Akinpelumi,Male,Campus- AI+ UNILAG
+305,AIB21/212,Omotoso Abdulmatin,Male,Campus- AI+ FUNAAB
+306,AIB21/306,Oni Shiloh Adebisi,Female,Campus- AI+ FUNAAB
+307,AIB21/24,Onwuka Daniel Ifeanyi,Male,Campus- AI+ FUTA
+308,AIB21/1,Onyekachukwu Okonji,Male,None
+309,AIB21/246,Opakunbi Halleluyah Paul,Male,City- AI+ Ibadan
+310,AIB21/91,Opeoluwa Iwashokun,Female,None
+311,AIB21/31,Opeyemi Bashirudeen,Male,Campus- AI+ UI
+312,AIB21/119,Oreoluwa Babatunde,Female,City- AI+ Ijebu-Ode
+313,AIB21/369,Osagie Iyayi,Male,Campus- AI+ UNILAG
+314,AIB21/9,Osanebi Emmanuel,Male,City- AI+ Ibadan
+315,AIB21/189,oshimua victor,Male,City- AI+ Port Harcourt
+316,AIB21/398,OTOOSAKYI DAVID OLUWADAMILOLA,Male,Campus- AI+ UI
+317,AIB21/259,Oyeniyi peter Oluwaseun,Male,Campus- AI+ OAU
+318,AIB21/60,Paa Kwesi Baisie-Ninchi,Male,None
+319,AIB21/120,Patience Chizoba Mba,Female,None
+320,AIB21/74,Patricia  Adeyemo,Female,Campus- AI+ UI
+321,AIB21/264,Paul Okewunmi,Male,Campus- AI+ OAU
+322,AIB21/28,Paul OYELABI,Female,Campus- AI+ OAU
+323,AIB21/396,PAUL TIMI,Male,Campus- AI+ FUTA
+324,AIB21/63,Pearse Jim,Male,Campus- AI+ FUNAAB
+325,AIB21/242,Peter Ogunjinmi,Male,None
+326,AIB21/270,Peter Tolutope Adekolu,Male,Campus- AI+ OAU
+327,AIB21/208,Praise Olawoore,Male,City- AI+ Ado-Ekiti
+328,AIB21/292,Praise Olayemi,Female,Campus- AI+ OAU
+329,AIB21/298,Precious Batta,Male,City- AI+ Uyo
+330,AIB21/271,Precious Kolawole,Female,Campus- AI+ OAU
+331,AIB21/203,Prince Ikpabi,Male,Campus- AI+ UI
+332,AIB21/122,Rachael Olomo,Female,None
+333,AIB21/3,Ramlah  Abdulmalik,Female,None
+334,AIB21/174,Ramotalahi Situ,Female,Campus- AI+ FUT
+335,AIB21/232,Rashidat Sikiru,Female,None
+336,AIB21/357,Richard Oloyede,Male,Campus- AI+ FUOYE
+337,AIB21/339,Ridwan Abdulkareem,Male,Campus- AI+ UNILAG
+338,AIB21/300,Rildwan Abolarinwa Jimoh,Male,Campus- AI+ UNILORIN
+339,AIB21/20,Rita Onyema,Female,None
+340,AIB21/48,Rukayat Amzat,Female,Campus- AI+ UNILAG
+341,AIB21/265,Saad Gbolahan Salami,Male,Campus- AI+ UNILAG
+342,AIB21/157,Saheed Azeez,Male,Campus- AI+ UNILAG
+343,AIB21/201,Saidat Okuneye,Female,Campus- AI+ LASU
+344,AIB21/54,Salisu Yahaya,Male,City- AI+ Bauchi
+345,AIB21/380,Salvation Tiva,Male,City- AI+ Jos
+346,AIB21/330,Samson Ilesanmi,Male,Campus- AI+ UNILAG
+347,AIB21/390,Samuel Ajulo,Male,Campus- AI+ UI
+348,AIB21/166,Samuel Budede,Male,City- AI+ Port Harcourt
+349,AIB21/26,Samuel Nkopuruk,Male,City- AI+ Uyo
+350,AIB21/278,Samuel Ogunlola,Male,Campus- AI+ FUNAAB
+351,AIB21/30,Samuel Okon,Male,City- AI+ Abuja
+352,AIB21/252,Samuel Oyeneye,Male,Campus- AI+ FUNAAB
+353,AIB21/103,Samuel Ozechi,Male,City- AI+ Port Harcourt
+354,AIB21/29,Segun Oladele,Male,Campus- AI+ FUTA
+355,AIB21/153,Shalom Oladokun,Male,Campus- AI+ UI
+356,AIB21/146,Sheba Alkali,Female,City- AI+ Abuja
+357,AIB21/381,Shedrack Eneojo Okute,Male,None
+358,AIB21/135,Sodiq Kadiri,Male,Campus- AI+ FUNAAB
+359,AIB21/127,Sogaolu Rebecca,Female,City- AI+ Abeokuta
+360,AIB21/222,Stephen Adewale,Male,Campus- AI+ FUOYE
+361,AIB21/69,Stephen Atehe,Male,City- AI+ Port Harcourt
+362,AIB21/314,Stephen Samuel,Male,Campus- AI+ UNILAG
+363,AIB21/205,Steven Kolawole,Male,Campus- AI+ FUNAAB
+364,AIB21/13,Sumayyah Taiwo,Female,None
+365,AIB21/159,Taiwo Emmanuel Ajagunsegun,Male,Campus- AI+ FUTA
+366,AIB21/382,Taiwo Osunrinde,Male,Campus- AI+ FUNAAB
+367,AIB21/229,Temidayo Oni,Male,Campus- AI+ FUNAAB
+368,AIB21/66,TEMILOLA ONANEYE,Male,Campus- AI+ UNILAG
+369,AIB21/363,Temiloluwa Adebowale,Male,Campus- AI+ UI
+370,AIB21/190,Temiloluwa Awoyele,Male,Campus- AI+ FUTA
+371,AIB21/177,Temitayo Oluwaseun Adejuyigbe,Male,Campus- AI+ OAU
+372,AIB21/324,Tenifayo Fagbemi,Female,Campus- AI+ OAU
+373,AIB21/18,Testimony Adekoya,Male,Campus- AI+ FUNAAB
+374,AIB21/181,Tobi Oyekanmi,Male,Campus- AI+ FUTA
+375,AIB21/255,Tobiloba Folayan,Male,None
+376,AIB21/385,Toheeb Bolaji Olayemi,Male,Campus- AI+ UNILAG
+377,AIB21/356,Tolu Oluwadare,Male,Campus- AI+ OAU
+378,AIB21/249,Toyib Biodun Ogunremi,Male,Campus- AI+ UI
+379,AIB21/350,Toyin Usman Olawale,Male,Campus- AI+ FUT
+380,AIB21/310,Tunde Wey,Male,Campus- AI+ LASU
+381,AIB21/315,Ubanioshomoshi Ehinlaiye,Female,None
+382,AIB21/341,Ugwu kenneth chidozie,Male,City- AI+ Port Harcourt
+383,AIB21/68,Ujoh Daniel,Male,None
+384,AIB21/311,Ukachi Eze-Mbey,Female,Campus- AI+ OAU
+385,AIB21/245,UMEH CHIGOZIE EMMANUEL,Male,City- AI+ Owerri
+386,AIB21/97,Umoren Amazing-Grace,Female,Campus- AI+ LASU
+387,AIB21/331,Unwana Ita,Male,City- AI+ Uyo
+388,AIB21/376,Usman Adedayo Abdulkareem,Male,Campus- AI+ UI
+389,AIB21/183,victor Hamzat,Male,Campus- AI+ OAU
+390,AIB21/104,Victor Ibukunoluwa Adeife,Male,Campus- AI+ OAU
+391,AIB21/361,Victor Oke,Male,Campus- AI+ UNILAG
+392,AIB21/301,Victor Oladoja,Male,Campus- AI+ FUTA
+393,AIB21/209,Victor Olufemi,Male,Campus- AI+ UNILORIN
+394,AIB21/141,Victor Umunna,Male,None
+395,AIB21/395,Victory Osazuwa-Ojo,Female,City- AI+ Benin
+396,AIB21/194,Waliulahi Olanbiwoninu,Male,Campus- AI+ FUT
+397,AIB21/210,Waris Sanusi,Male,Campus- AI+ UI
+398,AIB21/130,Wilson Edafe,Male,Campus- AI+ UNILAG
+399,AIB21/223,Yakubu Isah Musa,Male,City- AI+ Gombe
+400,AIB21/234,YESUFU Oluyemisi Faith,Female,Campus- AI+ OAU
+401,AIB21/392,Yusuf Abdulakeem Akanni,Male,Campus- AI+ FUTA
+402,AIB21/156,Yusuff Fatorisa,Male,Campus- AI+ FUT
+403,AIB21/144,Zainab Omotola Ojo,Female,City- AI+ Abuja
