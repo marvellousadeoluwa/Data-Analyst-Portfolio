@@ -37,6 +37,7 @@ Below are some projects I have worked on;
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Beautiful soup
 - Selenium
 - Kaggle
 - etc.
