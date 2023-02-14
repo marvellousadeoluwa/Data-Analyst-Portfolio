@@ -5,7 +5,7 @@ My name is Marvellous Alabi, a Machine Learning Engineer and a Data Analyst.
 - Twitter; @alabimarvellou3
 - LinkedIn; https://www.linkedin.com/in/marvellous-alabi/
 
-Projects
+## Projects
 Below are some projects I have worked on;
 - 2021 Data Science Nigeria Bootcamp Finalist
 - English Premier League [2021-2022/2023 season] Analysis
@@ -14,21 +14,21 @@ Below are some projects I have worked on;
 - Entry Level - Udemy Courses analysis
 
 
-  Practices
+  ## Practices
 - web scraping with python
 - data wrangling
 - data cleaning
 - data visualization
 - dashboarding
 
-Tools
+## Tools
 - Ms. Excel
 - Python
 - Tableau
 - SQL
 - Jupyter Notebook
 
-Frameworks and Libraries
+## Frameworks and Libraries
 - Numpy
 - Pandas
 - Scikit-learn
