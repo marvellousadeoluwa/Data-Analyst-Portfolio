@@ -13,6 +13,7 @@ Below are some projects I have worked on;
 - KPMG Data Analysis Virtual exeperience
 - Tata Data Visualization Virtual exeprience
 - Entry Level - Udemy Courses analysis
+- Kelvin's Cookies KPI Dashboards
 
   ## Practices
 - web scraping with python
@@ -25,8 +26,8 @@ Below are some projects I have worked on;
 - Look up tables, etc
 
 ## Tools
-- Ms. Excel
 - Python
+- Ms. Excel
 - Tableau
 - SQL
 - Jupyter Notebook
