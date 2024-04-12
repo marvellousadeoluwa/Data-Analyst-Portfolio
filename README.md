@@ -31,6 +31,7 @@ Below are some projects I have worked on;
 ## Tools
 - Python
 - Ms. Excel
+- Power BI
 - Tableau
 - SQL, Microsoft Server, MySQL, PostgresSQL
 - Jupyter Notebook
