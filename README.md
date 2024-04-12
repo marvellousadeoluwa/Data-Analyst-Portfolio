@@ -8,12 +8,15 @@ My name is Marvellous Alabi, a Machine Learning Engineer and a Data Analyst.
 
 ## Projects
 Below are some projects I have worked on;
+- Adventure Works Database Analysis (Human Resources and Sales Analysis)
+- Obsessive Compulsive Disorder analysis with SQL and Power BI
 - 2021 Data Science Nigeria Bootcamp Finalist
-- English Premier League [2021-2022/2023 season] Analysis
+- English Premier League [2021-2022/2023 season] Analysis with Machine Learning 
 - KPMG Data Analysis Virtual exeperience
 - Tata Data Visualization Virtual exeprience
 - Entry Level - Udemy Courses analysis
 - Kelvin's Cookies KPI Dashboards
+- etc...
 
   ## Practices
 - web scraping with python
@@ -29,7 +32,7 @@ Below are some projects I have worked on;
 - Python
 - Ms. Excel
 - Tableau
-- SQL
+- SQL, Microsoft Server, MySQL, PostgresSQL
 - Jupyter Notebook
 
 ## Frameworks and Libraries
